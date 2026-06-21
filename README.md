@@ -3,7 +3,8 @@ I'm Travis, I'm in the process of learning back-end development with [Boot.dev](
 ## Favorite Projects
 - [warehouse-api](https://github.com/LunarDrift/warehouse-api)
 - [go-book-tracker](https://github.com/LunarDrift/go-book-tracker)
+- [GratefulDead DB](https://github.com/LunarDrift/gddb)
 
 ## Books I'm Reading
-- Grokking Algorithms
-- Think Like a Programmer
+- Grokking Algorithms - Aditya Y. Bhargava
+- Clean Code - Robert C. Martin
