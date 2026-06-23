@@ -1,4 +1,4 @@
-I'm Travis, I'm in the process of learning back-end development with [Boot.dev](https://www.boot.dev/). Starting with Python, then a little C memory management stuff, and now I'm enjoying creating API systems in Go.
+Hello, I'm Travis. I'm in the process of learning back-end development with [Boot.dev](https://www.boot.dev/). Started with Python in 2025, then some C memory management stuff, and now I'm enjoying creating API systems in Go. 
 
 ## Favorite Projects
 - [warehouse-api](https://github.com/LunarDrift/warehouse-api)
@@ -8,3 +8,4 @@ I'm Travis, I'm in the process of learning back-end development with [Boot.dev](
 ## Books I'm Reading
 - Grokking Algorithms - Aditya Y. Bhargava
 - Clean Code - Robert C. Martin
+- Red Rising - Pierce Brown
